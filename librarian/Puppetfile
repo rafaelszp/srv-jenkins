@@ -1,0 +1,4 @@
+forge "http://forge.puppetlabs.com"
+mod "treydock/yum_cron", "1.2.0"
+mod "stahnma-epel", "1.0.2"
+mod "rtyler/jenkins", "1.4.0"
