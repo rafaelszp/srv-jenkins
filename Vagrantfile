@@ -6,7 +6,7 @@
 
 
 VAGRANTFILE_API_VERSION	= "2"
-GUEST_IP				= "192.168.2.10"
+GUEST_IP				= "192.168.2.11"
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
 	config.librarian_puppet.puppetfile_dir	= "librarian"
